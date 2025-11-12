@@ -66,3 +66,11 @@
 ### Specific Question
 - Does the amount of time a player spends on video games have a correlation to their subscription status?
 
+  ## 4. Methods and Plan
+
+A method that could be used to address the main question of this study is to perform tests comparing each explanatory variable in the dataset individually with the response variable in question: subscription to a game-related newsletter. 
+First, the response variable will be visualized against each explanatory variable separately to assess whether any show signs of correlation. For any qualitative variables that appear to do so, a chi-square test of independence will be performed. To compare which variable is most predictive, the p-values will be examined, where a lower magnitude indicates a better predictor. 
+For the quantitative explanatory variable, a K-NN test will be performed, and the RMSPE will be evaluated. Discretion will be used to determine whether the RMSPE value is acceptable relative to the values in the dataset. 
+In addition, explanatory variables will be compared to each other using additional visualizations to determine whether those traits are related as well.
+
+
