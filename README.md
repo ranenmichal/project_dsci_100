@@ -16,8 +16,8 @@
 - Age = quantitative  
 
 ### Variable Meaning:
-- experience = this variable describes the level of skill to which a gamer cacn perform  
-- subscribe = this variable defines whether a gamer is registered for a subscription in the Minecraft game  
+- experience = this variable describes the level of skill to which a gamer can perform  
+- subscribe = this variable defines whether a gamer is registered for a subscription to a gaming newsletter
 - hashedEmail = an email address transformed to protect personal information  
 - played_hours = the number of hours played in a given time frame  
 - name = the gamers inputed name  
@@ -57,3 +57,4 @@
 
 ### Potential Issues with the Sessions Dataset:
 - The starting time and ending time variables do not mean anything on their own, it is the difference that has relevance to the study being performed. Therefore, the difference will need to be calculated, elimating both of those columns and adding a new one which will take extra work.
+
