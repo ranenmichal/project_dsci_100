@@ -58,3 +58,11 @@
 ### Potential Issues with the Sessions Dataset:
 - The starting time and ending time variables do not mean anything on their own, it is the difference that has relevance to the study being performed. Therefore, the difference will need to be calculated, elimating both of those columns and adding a new one which will take extra work.
 
+## 2. Questions
+
+### Broad Question
+- What player characteristics and behaviours are most predictive of subscribing to a game-related newsletter, and how do these features differ between various player types?
+
+### Specific Question
+- Does the amount of time a player spends on video games have a correlation to their subscription status?
+
